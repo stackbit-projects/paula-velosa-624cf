@@ -80,8 +80,7 @@
                 "icon_position": "center",
                 "new_window": true
             }
-        ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a hrefk\" rel=\"noopener\">now</a>"
+        ]
     },
     "domain": "https://paula-velosa-624cf.netlify.app"
 }
