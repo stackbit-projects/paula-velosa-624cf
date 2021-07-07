@@ -7,7 +7,7 @@ sections:
     content: |
       ****
     actions:
-      - label: 'my '
+      - label: lets talk
         url: /about
         style: primary
     align: center
