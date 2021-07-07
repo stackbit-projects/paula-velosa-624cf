@@ -7,7 +7,7 @@ sections:
     content: |
       ****
     actions:
-      - label: '!'
+      - label: 'my '
         url: /about
         style: primary
     align: center
