@@ -9,7 +9,7 @@ sections:
     actions:
       - label: lets talk!
         url: /about
-        style: secondary
+        style: link
     align: center
     padding_top: large
     padding_bottom: large
